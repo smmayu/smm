@@ -10,4 +10,7 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.3
-Depends: R (>= 3.6), BiocGenerics, pwalign
+Imports: 
+    learnr,
+    biocViews:
+        pwalign
