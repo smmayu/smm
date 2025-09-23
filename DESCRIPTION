@@ -12,5 +12,4 @@ LazyData: true
 RoxygenNote: 7.3.3
 biocViews:
 Imports: 
-    learnr,
     pwalign
